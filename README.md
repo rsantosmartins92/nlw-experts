@@ -10,7 +10,7 @@ NLW-Experts é um projeto desenvolvido como parte do evento Next Level Week (NLW
 
 ## Funcionalidades
 
--
+- Quiz com 10 perguntas sobre JavaScript.
 
 ## Como Usar
 
@@ -33,8 +33,8 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 
 ## Autores
 
-- [Rafael Martins Dos Santos Pereira](https://github.com/seu-usuario)
+- [Rafael Martins Dos Santos Pereira](https://github.com/rsantosmartins92)
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT RockSet
+Este projeto está licenciado sob a licença MIT RocketSeat
