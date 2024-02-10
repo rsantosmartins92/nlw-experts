@@ -10,7 +10,7 @@ NLW-Experts é um projeto desenvolvido como parte do evento Next Level Week (NLW
 
 ## Funcionalidades
 
-- Quiz com 10 perguntas sobre JavaScript.
+- Em resumo, o código cria uma experiência interativa em que o usuário pode responder a perguntas sobre JavaScript e receber feedback imediato sobre sua pontuação no quiz.
 
 ## Como Usar
 
