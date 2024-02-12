@@ -16,7 +16,7 @@ NLW-Experts é um projeto desenvolvido como parte do evento Next Level Week (NLW
 
 1. **Clone o Repositório**: Faça o clone deste repositório para sua máquina local usando o comando:
 
-git clone https://github.com/seu-usuario/nlw-experts.git
+git clone https://github.com/rsantosmartins92/nlw-experts.git
 
 2. **Abra o Projeto**: Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador web.
 
