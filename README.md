@@ -37,4 +37,4 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT RocketSeat
+Este projeto está licenciado sob a licença MIT RocketSeat.
